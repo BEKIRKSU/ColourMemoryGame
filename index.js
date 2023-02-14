@@ -7,7 +7,6 @@ var userClickedPattern = [];
 var started = false;
 var level = 0;
 
-//possibly add React
 
 $(document).keypress(function() {
   if (!started) {
