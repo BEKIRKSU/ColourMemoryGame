@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    background-color: #011F3F;
+    background-color: #83cee0;
   }
   
   #level-title {
@@ -31,8 +31,8 @@ body {
     opacity: 0.8;
   }
   
-  .red {
-    background-color: red;
+  .orange {
+    background-color: orange;
   }
   
   .green {
